@@ -1,0 +1,5 @@
+{
+  "name": "Climate Data Dashboard",
+  "description": "Interactive climate data dashboard with global temperature heatmap and time-series trends.",
+  "requestFramePermissions": []
+}
